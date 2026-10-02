@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version from main branch
+=======
+Version from feature branch
+>>>>>>> new-feature
